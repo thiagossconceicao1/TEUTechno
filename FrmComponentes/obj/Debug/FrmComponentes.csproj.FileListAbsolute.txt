@@ -1,0 +1,10 @@
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.csproj.AssemblyReference.cache
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.Form1.resources
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.Properties.Resources.resources
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.csproj.GenerateResource.cache
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.csproj.CoreCompileInputs.cache
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\bin\Debug\FrmComponentes.exe.config
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\bin\Debug\FrmComponentes.exe
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\bin\Debug\FrmComponentes.pdb
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.exe
+C:\Users\thiago.santana3\Documents\Visual Studio 2019\TEUtechno\FrmComponentes\obj\Debug\FrmComponentes.pdb
